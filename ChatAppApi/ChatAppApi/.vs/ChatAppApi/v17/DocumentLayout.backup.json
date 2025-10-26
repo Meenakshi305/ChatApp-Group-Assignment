@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatAppApi\\ChatAppApi\\",
+  "WorkspaceRootPath": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatAppApi\\ChatAppApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9628F573-A368-9CB2-62F5-BBAD93376A6A}|ChatAppApi.csproj|c:\\users\\meena\\downloads\\chatappapi (2)\\chatappapi\\chatappapi\\hubs\\chatwebsockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9628F573-A368-9CB2-62F5-BBAD93376A6A}|ChatAppApi.csproj|c:\\users\\meena\\downloads\\chatappapi (2)\\chatapp\\chatappapi\\chatappapi\\hubs\\chatwebsockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9628F573-A368-9CB2-62F5-BBAD93376A6A}|ChatAppApi.csproj|solutionrelative:hubs\\chatwebsockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9628F573-A368-9CB2-62F5-BBAD93376A6A}|ChatAppApi.csproj|c:\\users\\meena\\downloads\\chatappapi (2)\\chatappapi\\chatappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9628F573-A368-9CB2-62F5-BBAD93376A6A}|ChatAppApi.csproj|c:\\users\\meena\\downloads\\chatappapi (2)\\chatapp\\chatappapi\\chatappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9628F573-A368-9CB2-62F5-BBAD93376A6A}|ChatAppApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9628F573-A368-9CB2-62F5-BBAD93376A6A}|ChatAppApi.csproj|c:\\users\\meena\\downloads\\chatappapi (2)\\chatappapi\\chatappapi\\rsatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9628F573-A368-9CB2-62F5-BBAD93376A6A}|ChatAppApi.csproj|c:\\users\\meena\\downloads\\chatappapi (2)\\chatapp\\chatappapi\\chatappapi\\rsatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9628F573-A368-9CB2-62F5-BBAD93376A6A}|ChatAppApi.csproj|solutionrelative:rsatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RSAtest.cs",
-              "DocumentMoniker": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatAppApi\\ChatAppApi\\RSAtest.cs",
+              "DocumentMoniker": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatAppApi\\ChatAppApi\\RSAtest.cs",
               "RelativeDocumentMoniker": "RSAtest.cs",
-              "ToolTip": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatAppApi\\ChatAppApi\\RSAtest.cs",
+              "ToolTip": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatAppApi\\ChatAppApi\\RSAtest.cs",
               "RelativeToolTip": "RSAtest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatAppApi\\ChatAppApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatAppApi\\ChatAppApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatAppApi\\ChatAppApi\\Program.cs",
+              "ToolTip": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatAppApi\\ChatAppApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwCEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ChatWebSocketHandler.cs",
-              "DocumentMoniker": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatAppApi\\ChatAppApi\\Hubs\\ChatWebSocketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatAppApi\\ChatAppApi\\Hubs\\ChatWebSocketHandler.cs",
               "RelativeDocumentMoniker": "Hubs\\ChatWebSocketHandler.cs",
-              "ToolTip": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatAppApi\\ChatAppApi\\Hubs\\ChatWebSocketHandler.cs",
+              "ToolTip": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatAppApi\\ChatAppApi\\Hubs\\ChatWebSocketHandler.cs",
               "RelativeToolTip": "Hubs\\ChatWebSocketHandler.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAgwAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwNsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T00:28:40.96Z",
               "EditorCaption": ""

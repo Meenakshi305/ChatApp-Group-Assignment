@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RvAiDGjTl2U=",
+  "dgSpecHash": "1/s3FLejrjs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\meena\\Downloads\\ChatAppSolution (3)\\ChatAppSolution\\ChatClient\\ChatClient.csproj",
+  "projectFilePath": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatClient\\ChatClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\meena\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\9.0.9\\microsoft.aspnetcore.connections.abstractions.9.0.9.nupkg.sha512",
     "C:\\Users\\meena\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\9.0.9\\microsoft.aspnetcore.http.connections.client.9.0.9.nupkg.sha512",

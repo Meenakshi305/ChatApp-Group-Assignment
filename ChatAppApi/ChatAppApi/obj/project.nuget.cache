@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1uHebNnUkZQ=",
+  "dgSpecHash": "gaLdbe5l1Xw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatAppApi\\ChatAppApi\\ChatAppApi.csproj",
+  "projectFilePath": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatAppApi\\ChatAppApi\\ChatAppApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\meena\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\meena\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

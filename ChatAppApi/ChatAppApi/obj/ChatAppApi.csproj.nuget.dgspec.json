@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatAppApi\\ChatAppApi\\ChatAppApi.csproj": {}
+    "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatAppApi\\ChatAppApi\\ChatAppApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatAppApi\\ChatAppApi\\ChatAppApi.csproj": {
+    "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatAppApi\\ChatAppApi\\ChatAppApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatAppApi\\ChatAppApi\\ChatAppApi.csproj",
+        "projectUniqueName": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatAppApi\\ChatAppApi\\ChatAppApi.csproj",
         "projectName": "ChatAppApi",
-        "projectPath": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatAppApi\\ChatAppApi\\ChatAppApi.csproj",
+        "projectPath": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatAppApi\\ChatAppApi\\ChatAppApi.csproj",
         "packagesPath": "C:\\Users\\meena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatAppApi\\ChatAppApi\\obj\\",
+        "outputPath": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatAppApi\\ChatAppApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

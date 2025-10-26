@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\meena\\Downloads\\ChatAppSolution (3)\\ChatAppSolution\\ChatClient\\ChatClient.csproj": {}
+    "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatClient\\ChatClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\meena\\Downloads\\ChatAppSolution (3)\\ChatAppSolution\\ChatClient\\ChatClient.csproj": {
+    "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatClient\\ChatClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\meena\\Downloads\\ChatAppSolution (3)\\ChatAppSolution\\ChatClient\\ChatClient.csproj",
+        "projectUniqueName": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatClient\\ChatClient.csproj",
         "projectName": "ChatClient",
-        "projectPath": "C:\\Users\\meena\\Downloads\\ChatAppSolution (3)\\ChatAppSolution\\ChatClient\\ChatClient.csproj",
+        "projectPath": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatClient\\ChatClient.csproj",
         "packagesPath": "C:\\Users\\meena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\meena\\Downloads\\ChatAppSolution (3)\\ChatAppSolution\\ChatClient\\obj\\",
+        "outputPath": "C:\\Users\\meena\\Downloads\\ChatAppApi (2)\\ChatApp\\ChatClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
